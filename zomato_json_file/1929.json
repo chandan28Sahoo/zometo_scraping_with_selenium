@@ -1,0 +1,2304 @@
+[
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Fiery Grills": {
+      " url ": "https://www.zomato.com/ncr/fiery-grills-netaji-subhash-place-new-delhi",
+      " location ": " 306, D Mall, Netaji Subhash Place, New Delhi",
+      " rating ": [
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Bar Food"
+      ],
+      " cost_for_two ": "1,500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Fiery Grills": {
+      " url ": "https://www.zomato.com/ncr/fiery-grills-netaji-subhash-place-new-delhi",
+      " location ": " 306, D Mall, Netaji Subhash Place, New Delhi",
+      " rating ": [
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Bar Food"
+      ],
+      " cost_for_two ": "1,500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Burger Hut": {
+      " url ": "https://www.zomato.com/ncr/burger-hut-alpha-1-greater-noida",
+      " location ": " Shop NS 2, Ground Floor, C Block Market, Opposite Mother Dairy, Alpha 1, Greater Noida",
+      " rating ": [
+        "3.1"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "11am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Fiery Grills": {
+      " url ": "https://www.zomato.com/ncr/fiery-grills-netaji-subhash-place-new-delhi",
+      " location ": " 306, D Mall, Netaji Subhash Place, New Delhi",
+      " rating ": [
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Bar Food"
+      ],
+      " cost_for_two ": "1,500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Burger Hut": {
+      " url ": "https://www.zomato.com/ncr/burger-hut-alpha-1-greater-noida",
+      " location ": " Shop NS 2, Ground Floor, C Block Market, Opposite Mother Dairy, Alpha 1, Greater Noida",
+      " rating ": [
+        "3.1"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "11am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Chaikhana": {
+      " url ": "https://www.zomato.com/ncr/chaikhana-jasola-new-delhi",
+      " location ": " Kanchan Kunj, Madanpur Khadar, Jasola, New Delhi",
+      " rating ": [
+        "3.2"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Beverages",
+        "Fast Food"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "7am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Fiery Grills": {
+      " url ": "https://www.zomato.com/ncr/fiery-grills-netaji-subhash-place-new-delhi",
+      " location ": " 306, D Mall, Netaji Subhash Place, New Delhi",
+      " rating ": [
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Bar Food"
+      ],
+      " cost_for_two ": "1,500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Burger Hut": {
+      " url ": "https://www.zomato.com/ncr/burger-hut-alpha-1-greater-noida",
+      " location ": " Shop NS 2, Ground Floor, C Block Market, Opposite Mother Dairy, Alpha 1, Greater Noida",
+      " rating ": [
+        "3.1"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "11am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Chaikhana": {
+      " url ": "https://www.zomato.com/ncr/chaikhana-jasola-new-delhi",
+      " location ": " Kanchan Kunj, Madanpur Khadar, Jasola, New Delhi",
+      " rating ": [
+        "3.2"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Beverages",
+        "Fast Food"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "7am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Maska Chaska": {
+      " url ": "https://www.zomato.com/ncr/maska-chaska-palam-new-delhi",
+      " location ": " RZG 341, Near Jhandewala Chowk, Rajnagar Part 2, Palam, New Delhi",
+      " rating ": [
+        "3.3"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "150",
+      " hour ": "10am \u2013 11pm (Mon, Tue, Wed, Fri, Sun), 9:30am \u2013...",
+      " featured ": [],
+      " discount ": [
+        "30% off on your first order"
+      ]
+    }
+  },
+  {
+    "Pizzeriaa": {
+      " url ": "https://www.zomato.com/ncr/pizzeriaa-laxmi-nagar",
+      " location ": " D29, Shop 3, Dayanand Block, Near Jain Mandir, Laxmi Nagar, New Delhi",
+      " rating ": [
+        "3.8",
+        "2.9"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "12noon \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Swaad By Sahman": {
+      " url ": "https://www.zomato.com/ncr/swaad-by-sahman-sector-14-gurgaon",
+      " location ": " 556, Dayanand Colony, Near Shiv Mandir, Sector 14, Gurgaon",
+      " rating ": [
+        "3.2",
+        "2.4"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Rolls",
+        "Sandwich",
+        "Beverages"
+      ],
+      " cost_for_two ": "300",
+      " hour ": "8am \u2013 4am (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "50% off on all orders"
+      ]
+    },
+    "Bikaner Mishthan Bhandar": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mishthan-bhandar-old-railway-road-gurgaon",
+      " location ": " New Colony More, Old Railway Road, Gurgaon",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Mithai"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "6am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Bikaner": {
+      " url ": "https://www.zomato.com/ncr/bikaner-mahipalpur-new-delhi",
+      " location ": " L-10, Near IGI Airport, Mahipalpur, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "South Indian",
+        "Mithai",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4:30pm, 6:30pm \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Sona Chinese": {
+      " url ": "https://www.zomato.com/ncr/sona-chinese-palam-vihar-gurgaon",
+      " location ": " F-211, Gate 6, Vyapar Kendra, Palam Vihar, Gurgaon",
+      " rating ": [
+        "3.4",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Chinese"
+      ],
+      " cost_for_two ": "350",
+      " hour ": "11am \u2013 10:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "New Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/new-punjabi-rasoi-2-rohini-new-delhi",
+      " location ": " 158, Shop 1, Pocket B-4, Sector 7, Rohini, New Delhi",
+      " rating ": [
+        "3.5",
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "11am \u2013 4pm, 6pm \u2013 11:30pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Mandeep Punjabi Rasoi": {
+      " url ": "https://www.zomato.com/ncr/mandeep-punjabi-rasoi-vikaspuri-new-delhi",
+      " location ": " H 1, DDA Market, Vikaspuri, New Delhi",
+      " rating ": [
+        "3.0"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian"
+      ],
+      " cost_for_two ": "200",
+      " hour ": "11:30am \u2013 4pm, 7pm \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Eat Street Pizza": {
+      " url ": "https://www.zomato.com/ncr/eat-street-pizza-sector-81-faridabad",
+      " location ": " Shop 3, Faridpur Road, Opposite ADEL Redwood Residency Market, Sector 78, Near Sector 81, Faridabad",
+      " rating ": [
+        "2.8"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Pizza",
+        "Fast Food"
+      ],
+      " cost_for_two ": "500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Indian Bites": {
+      " url ": "https://www.zomato.com/ncr/indian-bites-jail-road-new-delhi",
+      " location ": " E-68, Gurunanak Pura, Jail Road, New Delhi",
+      " rating ": [
+        "3.7",
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Fast Food",
+        "Burger",
+        "Beverages"
+      ],
+      " cost_for_two ": "550",
+      " hour ": "24 Hours (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Kerala - Kingdom of Dreams": {
+      " url ": "https://www.zomato.com/ncr/kerala-kingdom-of-dreams-sector-29-gurgaon",
+      " location ": " Culture Gully, Kingdom of Dreams, Great Indian Nautanki Company, Auditorium Complex, Sector 29, Gurgaon",
+      " rating ": [
+        "2.5"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "400",
+      " hour ": "Closed (Mon),1pm \u2013 11pm (Tue-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Fiery Grills": {
+      " url ": "https://www.zomato.com/ncr/fiery-grills-netaji-subhash-place-new-delhi",
+      " location ": " 306, D Mall, Netaji Subhash Place, New Delhi",
+      " rating ": [
+        "3.7"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Chinese",
+        "Bar Food"
+      ],
+      " cost_for_two ": "1,500",
+      " hour ": "11am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Burger Hut": {
+      " url ": "https://www.zomato.com/ncr/burger-hut-alpha-1-greater-noida",
+      " location ": " Shop NS 2, Ground Floor, C Block Market, Opposite Mother Dairy, Alpha 1, Greater Noida",
+      " rating ": [
+        "3.1"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food",
+        "Italian"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "11am \u2013 10pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Chaikhana": {
+      " url ": "https://www.zomato.com/ncr/chaikhana-jasola-new-delhi",
+      " location ": " Kanchan Kunj, Madanpur Khadar, Jasola, New Delhi",
+      " rating ": [
+        "3.2"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Beverages",
+        "Fast Food"
+      ],
+      " cost_for_two ": "250",
+      " hour ": "7am \u2013 11pm (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    },
+    "Maska Chaska": {
+      " url ": "https://www.zomato.com/ncr/maska-chaska-palam-new-delhi",
+      " location ": " RZG 341, Near Jhandewala Chowk, Rajnagar Part 2, Palam, New Delhi",
+      " rating ": [
+        "3.3"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "Fast Food"
+      ],
+      " cost_for_two ": "150",
+      " hour ": "10am \u2013 11pm (Mon, Tue, Wed, Fri, Sun), 9:30am \u2013...",
+      " featured ": [],
+      " discount ": [
+        "30% off on your first order"
+      ]
+    },
+    "The Road Side Cafe": {
+      " url ": "https://www.zomato.com/ncr/the-road-side-cafe-sector-29-gurgaon",
+      " location ": " Near Leisure Valley, Sector 29, Gurgaon",
+      " rating ": [
+        "3.6"
+      ],
+      " facility ": [],
+      " cuisines ": [
+        "North Indian",
+        "Rolls",
+        "Momos",
+        "Chinese",
+        "Fast Food"
+      ],
+      " cost_for_two ": "600",
+      " hour ": "5pm \u2013 12midnight (Mon-Sun)",
+      " featured ": [],
+      " discount ": [
+        "no discount"
+      ]
+    }
+  }
+]
